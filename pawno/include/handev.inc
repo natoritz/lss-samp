@@ -1,0 +1,1 @@
+native Eval7(hand1, hand2, hand3, hand4, hand5, hand6, hand7);
